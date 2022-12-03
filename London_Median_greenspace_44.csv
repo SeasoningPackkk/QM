@@ -1,0 +1,626 @@
+New Code,Borough,Names,"Local, Small or Pocket Park",District Park,Metropolitan Park,Regional Park,% homes with deficiency in access to nature2012,% area that is greenspace2012,median price2012
+E09000001,City of London,City of London,0.89 ,0.00 ,0.00 ,0.00 ,1.00 ,0.19 ,485000
+E05000026,Barking and Dagenham,Abbey,0.26 ,0.98 ,0.00 ,0.00 ,0.02 ,0.20 ,141000
+E05000027,Barking and Dagenham,Alibon,0.20 ,0.19 ,1.00 ,0.00 ,0.72 ,0.22 ,163000
+E05000028,Barking and Dagenham,Becontree,0.33 ,0.71 ,0.99 ,0.00 ,0.17 ,0.03 ,173000
+E05000029,Barking and Dagenham,Chadwell Heath,0.64 ,0.00 ,0.09 ,0.00 ,0.64 ,0.56 ,205000
+E05000030,Barking and Dagenham,Eastbrook,0.12 ,0.97 ,1.00 ,0.00 ,0.00 ,0.51 ,197500
+E05000031,Barking and Dagenham,Eastbury,0.14 ,0.65 ,0.43 ,0.00 ,0.06 ,0.18 ,182000
+E05000032,Barking and Dagenham,Gascoigne,0.52 ,0.06 ,0.00 ,0.00 ,0.06 ,0.20 ,158500
+E05000033,Barking and Dagenham,Goresbrook,0.83 ,0.06 ,1.00 ,0.00 ,0.08 ,0.17 ,165000
+E05000034,Barking and Dagenham,Heath,0.03 ,0.68 ,1.00 ,0.00 ,0.91 ,0.38 ,163000
+E05000035,Barking and Dagenham,Longbridge,0.00 ,1.00 ,0.17 ,0.00 ,0.04 ,0.30 ,258500
+E05000036,Barking and Dagenham,Mayesbrook,0.00 ,0.92 ,1.00 ,0.00 ,0.00 ,0.46 ,168000
+E05000037,Barking and Dagenham,Parsloes,0.27 ,0.04 ,1.00 ,0.00 ,0.30 ,0.17 ,162000
+E05000038,Barking and Dagenham,River,0.60 ,0.54 ,0.95 ,0.00 ,0.00 ,0.21 ,163000
+E05000039,Barking and Dagenham,Thames,0.31 ,0.05 ,0.06 ,0.00 ,0.23 ,0.44 ,197000
+E05000040,Barking and Dagenham,Valence,0.38 ,0.12 ,0.96 ,0.00 ,0.60 ,0.16 ,167000
+E05000041,Barking and Dagenham,Village,0.36 ,0.67 ,1.00 ,0.00 ,0.00 ,0.48 ,155000
+E05000042,Barking and Dagenham,Whalebone,0.05 ,0.18 ,0.24 ,0.00 ,0.98 ,0.16 ,196000
+E05000043,Barnet,Brunswick Park,0.23 ,1.00 ,0.25 ,0.00 ,0.01 ,0.28 ,360000
+E05000044,Barnet,Burnt Oak,0.68 ,0.13 ,0.07 ,0.00 ,0.03 ,0.20 ,234000
+E05000045,Barnet,Childs Hill,0.40 ,0.23 ,0.98 ,0.00 ,0.42 ,0.15 ,454500
+E05000046,Barnet,Colindale,0.53 ,0.35 ,0.29 ,0.00 ,0.49 ,0.21 ,250000
+E05000047,Barnet,Coppetts,0.38 ,0.10 ,0.38 ,0.00 ,0.09 ,0.40 ,321500
+E05000048,Barnet,East Barnet,0.36 ,0.98 ,0.91 ,0.00 ,0.00 ,0.35 ,329975
+E05000049,Barnet,East Finchley,0.31 ,0.00 ,0.40 ,0.00 ,0.07 ,0.38 ,371000
+E05000050,Barnet,Edgware,0.24 ,0.10 ,0.00 ,0.00 ,0.20 ,0.54 ,295000
+E05000051,Barnet,Finchley Church End,0.40 ,0.08 ,0.00 ,0.00 ,0.12 ,0.14 ,395000
+E05000052,Barnet,Garden Suburb,0.59 ,0.62 ,0.77 ,0.00 ,0.02 ,0.24 ,716250
+E05000053,Barnet,Golders Green,0.33 ,0.04 ,0.46 ,0.00 ,0.42 ,0.15 ,450000
+E05000054,Barnet,Hale,0.21 ,0.14 ,0.00 ,0.00 ,0.07 ,0.49 ,350000
+E05000055,Barnet,Hendon,0.14 ,0.73 ,0.00 ,0.00 ,0.36 ,0.16 ,335000
+E05000056,Barnet,High Barnet,0.27 ,0.76 ,0.00 ,0.00 ,0.04 ,0.48 ,354000
+E05000057,Barnet,Mill Hill,0.11 ,0.68 ,0.00 ,0.00 ,0.03 ,0.59 ,380000
+E05000058,Barnet,Oakleigh,0.21 ,0.65 ,0.00 ,0.00 ,0.46 ,0.15 ,366875
+E05000059,Barnet,Totteridge,0.40 ,0.75 ,0.00 ,0.00 ,0.01 ,0.58 ,478750
+E05000060,Barnet,Underhill,0.23 ,0.95 ,0.00 ,0.00 ,0.09 ,0.44 ,308750
+E05000061,Barnet,West Finchley,0.26 ,0.03 ,0.00 ,0.00 ,0.15 ,0.13 ,318500
+E05000062,Barnet,West Hendon,0.47 ,0.61 ,0.20 ,0.00 ,0.29 ,0.32 ,273000
+E05000063,Barnet,Woodhouse,0.41 ,0.08 ,0.00 ,0.00 ,0.34 ,0.19 ,320000
+E05000064,Bexley,Barnehurst,0.66 ,0.21 ,0.20 ,0.00 ,0.11 ,0.36 ,216923
+E05000065,Bexley,Belvedere,0.49 ,0.00 ,0.91 ,0.00 ,0.00 ,0.33 ,150000
+E05000066,Bexley,Blackfen and Lamorbey,0.28 ,0.35 ,0.91 ,0.00 ,0.02 ,0.09 ,243500
+E05000067,Bexley,Blendon and Penhill,0.56 ,0.00 ,1.00 ,0.00 ,0.00 ,0.14 ,250000
+E05000068,Bexley,Brampton,0.12 ,0.00 ,0.82 ,0.00 ,0.49 ,0.09 ,250000
+E05000069,Bexley,Christchurch,0.29 ,0.16 ,0.90 ,0.00 ,0.20 ,0.17 ,228575
+E05000070,Bexley,Colyers,0.41 ,0.00 ,0.19 ,0.00 ,0.68 ,0.13 ,183500
+E05000071,Bexley,Crayford,0.22 ,0.24 ,0.45 ,0.00 ,0.07 ,0.43 ,172500
+E05000072,Bexley,Cray Meadows,0.25 ,0.00 ,1.00 ,0.00 ,0.00 ,0.62 ,235000
+E05000073,Bexley,Danson Park,0.44 ,0.04 ,1.00 ,0.00 ,0.00 ,0.36 ,224500
+E05000074,Bexley,East Wickham,0.09 ,0.68 ,0.93 ,0.00 ,0.00 ,0.26 ,229500
+E05000075,Bexley,Erith,0.47 ,0.00 ,0.87 ,0.00 ,0.23 ,0.45 ,157000
+E05000076,Bexley,Falconwood and Welling,0.05 ,0.16 ,1.00 ,0.00 ,0.37 ,0.01 ,235000
+E05000077,Bexley,Lesnes Abbey,0.34 ,0.31 ,1.00 ,0.00 ,0.00 ,0.37 ,233000
+E05000078,Bexley,Longlands,0.58 ,0.00 ,0.78 ,0.00 ,0.62 ,0.30 ,245000
+E05000079,Bexley,North End,0.50 ,0.00 ,0.99 ,0.00 ,0.41 ,0.65 ,155500
+E05000080,Bexley,Northumberland Heath,0.31 ,0.00 ,0.72 ,0.00 ,0.06 ,0.14 ,225000
+E05000081,Bexley,St. Mary's,0.23 ,0.25 ,0.99 ,0.00 ,0.00 ,0.47 ,253127
+E05000082,Bexley,St. Michael's,0.00 ,0.49 ,1.00 ,0.00 ,0.23 ,0.06 ,238000
+E05000083,Bexley,Sidcup,0.60 ,0.00 ,0.91 ,0.00 ,0.04 ,0.26 ,220000
+E05000084,Bexley,Thamesmead East,0.46 ,0.53 ,0.55 ,0.00 ,0.00 ,0.70 ,129250
+E05000085,Brent,Alperton,0.40 ,0.01 ,0.40 ,0.00 ,0.00 ,0.18 ,210000
+E05000086,Brent,Barnhill,0.61 ,0.00 ,1.00 ,0.00 ,0.00 ,0.32 ,297500
+E05000087,Brent,Brondesbury Park,0.40 ,0.00 ,0.07 ,0.00 ,0.25 ,0.10 ,427500
+E05000088,Brent,Dollis Hill,0.22 ,0.99 ,0.00 ,0.00 ,0.00 ,0.27 ,300000
+E05000089,Brent,Dudden Hill,0.37 ,0.85 ,0.05 ,0.00 ,0.00 ,0.12 ,370000
+E05000090,Brent,Fryent,0.60 ,0.26 ,1.00 ,0.00 ,0.05 ,0.39 ,317600
+E05000091,Brent,Harlesden,0.19 ,0.00 ,0.34 ,0.00 ,0.00 ,0.09 ,240000
+E05000092,Brent,Kensal Green,0.34 ,0.00 ,1.00 ,0.00 ,0.00 ,0.07 ,367000
+E05000093,Brent,Kenton,0.44 ,0.25 ,0.80 ,0.00 ,0.06 ,0.17 ,410000
+E05000094,Brent,Kilburn,0.52 ,0.00 ,0.00 ,0.00 ,0.13 ,0.11 ,382500
+E05000095,Brent,Mapesbury,0.11 ,0.69 ,0.15 ,0.00 ,0.66 ,0.10 ,353125
+E05000096,Brent,Northwick Park,0.01 ,1.00 ,0.38 ,0.00 ,0.19 ,0.32 ,364975
+E05000097,Brent,Preston,0.45 ,0.37 ,0.93 ,0.00 ,0.67 ,0.19 ,307000
+E05000098,Brent,Queens Park,0.52 ,0.00 ,0.47 ,0.00 ,0.00 ,0.19 ,402500
+E05000099,Brent,Queensbury,0.46 ,0.00 ,0.96 ,0.00 ,0.52 ,0.14 ,319975
+E05000100,Brent,Stonebridge,0.52 ,0.00 ,0.00 ,0.00 ,0.00 ,0.16 ,232000
+E05000101,Brent,Sudbury,0.44 ,0.92 ,0.90 ,0.00 ,0.35 ,0.35 ,237750
+E05000102,Brent,Tokyngton,0.42 ,0.00 ,0.46 ,0.00 ,0.47 ,0.20 ,246000
+E05000103,Brent,Welsh Harp,0.78 ,0.42 ,0.91 ,0.00 ,0.00 ,0.34 ,247500
+E05000104,Brent,Wembley Central,0.30 ,0.06 ,0.55 ,0.00 ,0.07 ,0.20 ,250000
+E05000105,Brent,Willesden Green,0.46 ,0.51 ,0.00 ,0.00 ,0.34 ,0.37 ,300000
+E05000106,Bromley,Bickley,0.12 ,0.43 ,0.56 ,0.00 ,0.60 ,0.22 ,350000
+E05000107,Bromley,Biggin Hill,0.12 ,0.00 ,0.00 ,0.00 ,0.00 ,0.71 ,244000
+E05000108,Bromley,Bromley Common and Keston,0.54 ,0.40 ,0.87 ,0.00 ,0.11 ,0.59 ,275000
+E05000109,Bromley,Bromley Town,0.34 ,0.00 ,0.96 ,0.00 ,0.86 ,0.18 ,258000
+E05000110,Bromley,Chelsfield and Pratts Bottom,0.42 ,0.28 ,0.65 ,0.00 ,0.17 ,0.69 ,295000
+E05000111,Bromley,Chislehurst,0.10 ,0.93 ,0.66 ,0.00 ,0.01 ,0.60 ,363000
+E05000112,Bromley,Clock House,0.39 ,0.79 ,0.82 ,0.00 ,0.24 ,0.16 ,250000
+E05000113,Bromley,Copers Cope,0.04 ,0.45 ,1.00 ,0.00 ,0.10 ,0.17 ,248000
+E05000114,Bromley,Cray Valley East,0.20 ,0.01 ,0.82 ,0.00 ,0.00 ,0.76 ,191500
+E05000115,Bromley,Cray Valley West,0.21 ,0.71 ,1.00 ,0.00 ,0.00 ,0.24 ,204995
+E05000116,Bromley,Crystal Palace,0.59 ,0.03 ,1.00 ,0.00 ,0.14 ,0.49 ,185000
+E05000117,Bromley,Darwin,0.09 ,0.03 ,0.34 ,0.00 ,0.00 ,0.89 ,407500
+E05000118,Bromley,Farnborough and Crofton,0.28 ,0.73 ,0.39 ,0.00 ,0.00 ,0.50 ,297475
+E05000119,Bromley,Hayes and Coney Hall,0.34 ,0.18 ,1.00 ,0.00 ,0.25 ,0.69 ,366750
+E05000120,Bromley,Kelsey and Eden Park,0.30 ,0.90 ,0.33 ,0.00 ,0.21 ,0.44 ,331000
+E05000121,Bromley,Mottingham and Chislehurst North,0.25 ,1.00 ,0.00 ,0.00 ,0.00 ,0.44 ,201500
+E05000122,Bromley,Orpington,0.24 ,0.59 ,0.01 ,0.00 ,0.17 ,0.26 ,260500
+E05000123,Bromley,Penge and Cator,0.54 ,0.06 ,1.00 ,0.00 ,0.24 ,0.25 ,271000
+E05000124,Bromley,Petts Wood and Knoll,0.50 ,0.33 ,0.72 ,0.00 ,0.03 ,0.25 ,405000
+E05000125,Bromley,Plaistow and Sundridge,0.38 ,0.00 ,0.56 ,0.00 ,0.18 ,0.40 ,250000
+E05000126,Bromley,Shortlands,0.34 ,0.14 ,0.89 ,0.00 ,0.22 ,0.03 ,277500
+E05000127,Bromley,West Wickham,0.30 ,0.44 ,0.65 ,0.00 ,0.33 ,0.33 ,390000
+E05000128,Camden,Belsize,0.35 ,0.92 ,1.00 ,0.00 ,0.04 ,0.01 ,700000
+E05000129,Camden,Bloomsbury,0.64 ,0.00 ,1.00 ,0.00 ,0.76 ,0.09 ,448500
+E05000130,Camden,Camden Town with Primrose Hill,0.60 ,0.71 ,1.00 ,0.00 ,0.08 ,0.15 ,618000
+E05000131,Camden,Cantelowes,0.46 ,0.00 ,1.00 ,0.00 ,0.31 ,0.07 ,435000
+E05000132,Camden,Fortune Green,0.70 ,0.00 ,0.77 ,0.00 ,0.37 ,0.18 ,477500
+E05000133,Camden,Frognal and Fitzjohns,0.13 ,0.06 ,1.00 ,0.00 ,0.17 ,0.06 ,1030000
+E05000134,Camden,Gospel Oak,0.28 ,0.05 ,1.00 ,0.00 ,0.00 ,0.16 ,517000
+E05000135,Camden,Hampstead Town,0.29 ,0.04 ,1.00 ,0.00 ,0.00 ,0.54 ,835000
+E05000136,Camden,Haverstock,0.04 ,0.33 ,1.00 ,0.00 ,0.05 ,0.08 ,436000
+E05000137,Camden,Highgate,0.57 ,0.06 ,1.00 ,0.00 ,0.00 ,0.65 ,520600
+E05000138,Camden,Holborn and Covent Garden,0.58 ,0.04 ,0.33 ,0.00 ,0.98 ,0.08 ,625000
+E05000139,Camden,Kentish Town,0.59 ,0.00 ,1.00 ,0.00 ,0.21 ,0.05 ,418750
+E05000140,Camden,Kilburn,0.51 ,0.02 ,0.57 ,0.00 ,0.60 ,0.13 ,412500
+E05000141,Camden,King's Cross,0.60 ,0.00 ,0.71 ,0.00 ,0.76 ,0.13 ,380000
+E05000142,Camden,Regent's Park,0.70 ,0.18 ,1.00 ,0.00 ,0.00 ,0.27 ,375000
+E05000143,Camden,St. Pancras and Somers Town,0.61 ,0.00 ,0.96 ,0.00 ,0.00 ,0.14 ,339950
+E05000144,Camden,Swiss Cottage,0.48 ,0.32 ,0.93 ,0.00 ,0.64 ,0.14 ,590000
+E05000145,Camden,West Hampstead,0.80 ,0.00 ,0.83 ,0.00 ,0.33 ,0.09 ,495000
+E05000146,Croydon,Addiscombe,0.04 ,0.15 ,0.00 ,0.00 ,0.05 ,0.02 ,215000
+E05000147,Croydon,Ashburton,0.69 ,0.99 ,0.00 ,0.00 ,0.12 ,0.22 ,272500
+E05000148,Croydon,Bensham Manor,0.39 ,0.00 ,0.45 ,0.00 ,0.92 ,0.08 ,210000
+E05000149,Croydon,Broad Green,0.18 ,0.00 ,0.65 ,0.00 ,0.83 ,0.05 ,182000
+E05000150,Croydon,Coulsdon East,0.36 ,0.44 ,1.00 ,0.00 ,0.00 ,0.57 ,320000
+E05000151,Croydon,Coulsdon West,0.06 ,0.02 ,0.97 ,0.00 ,0.52 ,0.17 ,341500
+E05000152,Croydon,Croham,0.33 ,0.87 ,0.42 ,0.00 ,0.42 ,0.19 ,210000
+E05000153,Croydon,Fairfield,0.24 ,0.37 ,0.07 ,0.00 ,0.68 ,0.17 ,205000
+E05000154,Croydon,Fieldway,0.44 ,0.03 ,0.00 ,0.00 ,0.00 ,0.23 ,170040
+E05000155,Croydon,Heathfield,0.38 ,0.60 ,0.73 ,0.00 ,0.00 ,0.61 ,227000
+E05000156,Croydon,Kenley,0.41 ,0.56 ,0.30 ,0.00 ,0.09 ,0.40 ,279000
+E05000157,Croydon,New Addington,0.76 ,0.76 ,0.00 ,0.00 ,0.00 ,0.31 ,185000
+E05000158,Croydon,Norbury,0.61 ,0.26 ,0.78 ,0.00 ,0.74 ,0.16 ,269000
+E05000159,Croydon,Purley,0.08 ,0.62 ,0.97 ,0.00 ,0.20 ,0.04 ,292000
+E05000160,Croydon,Sanderstead,0.34 ,0.64 ,0.10 ,0.00 ,0.00 ,0.49 ,338000
+E05000161,Croydon,Selhurst,0.36 ,0.00 ,0.09 ,0.00 ,0.47 ,0.18 ,175000
+E05000162,Croydon,Selsdon and Ballards,0.31 ,0.84 ,0.82 ,0.00 ,0.00 ,0.55 ,301250
+E05000163,Croydon,Shirley,0.66 ,0.17 ,0.00 ,0.00 ,0.31 ,0.16 ,277500
+E05000164,Croydon,South Norwood,0.60 ,0.24 ,0.56 ,0.00 ,0.05 ,0.17 ,186950
+E05000165,Croydon,Thornton Heath,0.39 ,0.00 ,0.28 ,0.00 ,0.39 ,0.11 ,195000
+E05000166,Croydon,Upper Norwood,0.68 ,0.13 ,0.72 ,0.00 ,0.06 ,0.19 ,250000
+E05000167,Croydon,Waddon,0.57 ,0.57 ,0.97 ,0.00 ,0.59 ,0.33 ,200000
+E05000168,Croydon,West Thornton,0.02 ,0.00 ,0.98 ,0.00 ,0.68 ,0.18 ,189000
+E05000169,Croydon,Woodside,0.27 ,0.81 ,0.00 ,0.00 ,0.00 ,0.33 ,190000
+E05000170,Ealing,Acton Central,0.73 ,0.00 ,0.94 ,0.00 ,1.00 ,0.24 ,379000
+E05000171,Ealing,Cleveland,0.43 ,0.91 ,0.09 ,0.00 ,0.31 ,0.35 ,382500
+E05000172,Ealing,Dormers Wells,0.84 ,0.38 ,0.54 ,0.00 ,0.03 ,0.47 ,240000
+E05000173,Ealing,Ealing Broadway,0.14 ,0.92 ,0.17 ,0.00 ,0.52 ,0.06 ,330000
+E05000174,Ealing,Ealing Common,0.74 ,0.61 ,1.00 ,0.00 ,0.56 ,0.22 ,380000
+E05000175,Ealing,East Acton,0.56 ,0.04 ,0.99 ,0.00 ,0.64 ,0.20 ,320650
+E05000176,Ealing,Elthorne,0.27 ,0.90 ,0.00 ,0.00 ,0.00 ,0.34 ,326000
+E05000177,Ealing,Greenford Broadway,0.43 ,0.28 ,1.00 ,0.00 ,0.01 ,0.26 ,215000
+E05000178,Ealing,Greenford Green,0.63 ,0.39 ,1.00 ,0.00 ,0.05 ,0.23 ,260500
+E05000179,Ealing,Hanger Hill,0.51 ,0.26 ,0.12 ,0.00 ,0.08 ,0.27 ,380000
+E05000180,Ealing,Hobbayne,0.57 ,0.89 ,0.20 ,0.00 ,0.02 ,0.36 ,292250
+E05000181,Ealing,Lady Margaret,0.84 ,0.12 ,0.94 ,0.00 ,0.13 ,0.19 ,250000
+E05000182,Ealing,Northfield,0.59 ,0.96 ,0.74 ,0.00 ,0.05 ,0.26 ,450000
+E05000183,Ealing,North Greenford,0.44 ,0.15 ,0.98 ,0.00 ,0.06 ,0.53 ,285000
+E05000184,Ealing,Northolt Mandeville,0.88 ,0.46 ,1.00 ,0.00 ,0.30 ,0.34 ,249725
+E05000185,Ealing,Northolt West End,0.20 ,0.15 ,1.00 ,0.00 ,0.13 ,0.56 ,194500
+E05000186,Ealing,Norwood Green,0.68 ,0.19 ,0.87 ,0.00 ,0.00 ,0.48 ,275000
+E05000187,Ealing,Perivale,0.37 ,0.36 ,0.99 ,0.00 ,0.02 ,0.38 ,275000
+E05000188,Ealing,South Acton,0.65 ,0.00 ,1.00 ,0.00 ,0.71 ,0.17 ,325000
+E05000189,Ealing,Southall Broadway,0.30 ,0.27 ,0.98 ,0.00 ,0.13 ,0.14 ,230000
+E05000190,Ealing,Southall Green,0.67 ,0.00 ,0.80 ,0.00 ,0.05 ,0.16 ,220000
+E05000191,Ealing,Southfield,0.83 ,0.02 ,1.00 ,0.00 ,0.46 ,0.14 ,560000
+E05000192,Ealing,Walpole,0.17 ,1.00 ,0.45 ,0.00 ,0.53 ,0.20 ,440000
+E05000193,Enfield,Bowes,0.09 ,0.53 ,0.52 ,0.38 ,0.03 ,0.15 ,261000
+E05000194,Enfield,Bush Hill Park,0.18 ,0.23 ,0.00 ,1.00 ,0.46 ,0.30 ,310000
+E05000195,Enfield,Chase,0.20 ,0.56 ,0.99 ,0.55 ,0.00 ,0.82 ,250000
+E05000196,Enfield,Cockfosters,0.22 ,0.77 ,0.94 ,0.00 ,0.27 ,0.69 ,400000
+E05000197,Enfield,Edmonton Green,0.29 ,0.81 ,0.00 ,1.00 ,1.00 ,0.33 ,191250
+E05000198,Enfield,Enfield Highway,0.00 ,1.00 ,0.03 ,1.00 ,0.83 ,0.41 ,214000
+E05000199,Enfield,Enfield Lock,0.25 ,0.62 ,0.00 ,1.00 ,0.44 ,0.40 ,215000
+E05000200,Enfield,Grange,0.14 ,0.66 ,0.10 ,0.61 ,0.00 ,0.27 ,350000
+E05000201,Enfield,Haselbury,0.21 ,0.89 ,0.00 ,1.00 ,1.00 ,0.27 ,220000
+E05000202,Enfield,Highlands,0.00 ,0.39 ,0.63 ,0.05 ,0.33 ,0.57 ,297000
+E05000203,Enfield,Jubilee,0.22 ,0.69 ,0.00 ,1.00 ,1.00 ,0.61 ,214000
+E05000204,Enfield,Lower Edmonton,0.10 ,0.68 ,0.00 ,1.00 ,0.99 ,0.41 ,205000
+E05000205,Enfield,Palmers Green,0.42 ,0.52 ,0.00 ,0.68 ,0.06 ,0.15 ,299975
+E05000206,Enfield,Ponders End,0.34 ,0.80 ,0.00 ,1.00 ,0.72 ,0.45 ,192500
+E05000207,Enfield,Southbury,0.48 ,0.44 ,0.32 ,1.00 ,0.88 ,0.29 ,233000
+E05000208,Enfield,Southgate,0.00 ,0.93 ,0.68 ,0.00 ,0.21 ,0.27 ,285000
+E05000209,Enfield,Southgate Green,0.07 ,1.00 ,0.01 ,0.00 ,0.00 ,0.21 ,384950
+E05000210,Enfield,Town,0.06 ,0.53 ,0.96 ,0.86 ,0.23 ,0.16 ,281000
+E05000211,Enfield,Turkey Street,0.13 ,0.44 ,0.30 ,1.00 ,0.47 ,0.30 ,215000
+E05000212,Enfield,Upper Edmonton,0.30 ,0.57 ,0.00 ,1.00 ,0.73 ,0.18 ,215000
+E05000213,Enfield,Winchmore Hill,0.00 ,0.80 ,0.01 ,0.27 ,0.00 ,0.25 ,345000
+E05000214,Greenwich,Abbey Wood,0.42 ,0.57 ,1.00 ,0.00 ,0.00 ,0.44 ,175000
+E05000215,Greenwich,Blackheath Westcombe,0.24 ,0.02 ,1.00 ,0.00 ,0.00 ,0.15 ,362500
+E05000216,Greenwich,Charlton,0.22 ,0.95 ,0.88 ,0.00 ,0.33 ,0.32 ,309000
+E05000217,Greenwich,Coldharbour and New Eltham,0.60 ,0.44 ,0.16 ,0.00 ,0.54 ,0.20 ,250000
+E05000218,Greenwich,Eltham North,0.24 ,0.66 ,0.94 ,0.00 ,0.04 ,0.25 ,253750
+E05000219,Greenwich,Eltham South,0.07 ,0.73 ,0.93 ,0.00 ,0.01 ,0.55 ,230000
+E05000220,Greenwich,Eltham West,0.10 ,0.79 ,0.44 ,0.00 ,0.11 ,0.30 ,247500
+E05000221,Greenwich,Glyndon,0.43 ,0.72 ,0.37 ,0.00 ,0.07 ,0.33 ,190000
+E05000222,Greenwich,Greenwich West,0.44 ,0.00 ,1.00 ,0.00 ,0.00 ,0.49 ,294500
+E05000223,Greenwich,Kidbrooke with Hornfair,0.33 ,0.46 ,0.72 ,0.00 ,0.26 ,0.28 ,230000
+E05000224,Greenwich,Middle Park and Sutcliffe,0.38 ,0.58 ,0.54 ,0.00 ,0.05 ,0.37 ,250000
+E05000225,Greenwich,Peninsula,0.32 ,0.05 ,1.00 ,0.00 ,0.18 ,0.34 ,346000
+E05000226,Greenwich,Plumstead,0.00 ,1.00 ,1.00 ,0.00 ,0.00 ,0.41 ,175000
+E05000227,Greenwich,Shooters Hill,0.36 ,0.75 ,0.14 ,0.00 ,0.00 ,0.57 ,220000
+E05000228,Greenwich,Thamesmead Moorings,0.51 ,0.07 ,0.25 ,0.00 ,0.00 ,0.56 ,163000
+E05000229,Greenwich,Woolwich Common,0.30 ,0.85 ,0.00 ,0.00 ,0.20 ,0.39 ,185000
+E05000230,Greenwich,Woolwich Riverside,0.25 ,0.19 ,0.00 ,0.00 ,0.40 ,0.35 ,203200
+E05000231,Hackney,Brownswood,0.06 ,1.00 ,1.00 ,1.00 ,0.00 ,0.28 ,310000
+E05000232,Hackney,Cazenove,0.00 ,0.29 ,0.23 ,1.00 ,0.00 ,0.13 ,282500
+E05000233,Hackney,Chatham,0.24 ,0.65 ,1.00 ,1.00 ,0.27 ,0.20 ,270000
+E05000234,Hackney,Clissold,0.40 ,1.00 ,0.92 ,1.00 ,0.02 ,0.12 ,475000
+E05000235,Hackney,Dalston,0.26 ,0.95 ,0.29 ,1.00 ,1.00 ,0.17 ,350000
+E05000236,Hackney,De Beauvoir,0.44 ,0.42 ,0.34 ,1.00 ,0.67 ,0.14 ,333750
+E05000237,Hackney,Hackney Central,0.01 ,1.00 ,0.92 ,1.00 ,0.92 ,0.14 ,325000
+E05000238,Hackney,Hackney Downs,0.01 ,1.00 ,0.14 ,1.00 ,0.02 ,0.34 ,322500
+E05000239,Hackney,Haggerston,0.23 ,0.81 ,0.81 ,0.93 ,0.27 ,0.19 ,392500
+E05000240,Hackney,Hoxton,0.47 ,0.12 ,0.07 ,0.64 ,0.98 ,0.28 ,340000
+E05000241,Hackney,King's Park,0.61 ,0.03 ,1.00 ,1.00 ,0.00 ,0.68 ,267850
+E05000242,Hackney,Leabridge,0.00 ,0.68 ,0.45 ,1.00 ,0.00 ,0.23 ,312500
+E05000243,Hackney,Lordship,0.00 ,0.78 ,1.00 ,1.00 ,0.00 ,0.34 ,323225
+E05000244,Hackney,New River,0.08 ,0.13 ,1.00 ,1.00 ,0.00 ,0.28 ,300000
+E05000245,Hackney,Queensbridge,0.27 ,1.00 ,1.00 ,1.00 ,0.46 ,0.16 ,380500
+E05000246,Hackney,Springfield,0.03 ,0.00 ,0.09 ,1.00 ,0.00 ,0.26 ,315000
+E05000247,Hackney,Stoke Newington Central,0.34 ,1.00 ,0.17 ,1.00 ,0.31 ,0.13 ,424000
+E05000248,Hackney,Victoria,0.33 ,0.98 ,1.00 ,1.00 ,0.00 ,0.21 ,345000
+E05000249,Hackney,Wick,0.61 ,0.16 ,1.00 ,1.00 ,0.00 ,0.30 ,317500
+E05000250,Hammersmith and Fulham,Addison,0.55 ,0.24 ,0.46 ,0.00 ,0.81 ,0.00 ,410000
+E05000251,Hammersmith and Fulham,Askew,0.36 ,0.91 ,0.73 ,0.00 ,0.11 ,0.04 ,360000
+E05000252,Hammersmith and Fulham,Avonmore and Brook Green,0.61 ,0.17 ,0.25 ,0.00 ,0.92 ,0.09 ,437500
+E05000253,Hammersmith and Fulham,College Park and Old Oak,0.31 ,0.00 ,1.00 ,0.00 ,0.00 ,0.44 ,320000
+E05000254,Hammersmith and Fulham,Fulham Broadway,0.37 ,0.07 ,0.01 ,0.99 ,0.38 ,0.03 ,490000
+E05000255,Hammersmith and Fulham,Fulham Reach,0.43 ,0.03 ,0.00 ,1.00 ,0.85 ,0.21 ,470000
+E05000256,Hammersmith and Fulham,Hammersmith Broadway,0.25 ,0.75 ,0.25 ,0.25 ,0.05 ,0.09 ,475000
+E05000257,Hammersmith and Fulham,Munster,0.14 ,0.93 ,0.29 ,1.00 ,0.11 ,0.09 ,650000
+E05000258,Hammersmith and Fulham,North End,0.58 ,0.00 ,0.01 ,0.85 ,0.74 ,0.11 ,380000
+E05000259,Hammersmith and Fulham,Palace Riverside,0.61 ,1.00 ,0.36 ,1.00 ,0.00 ,0.55 ,710000
+E05000260,Hammersmith and Fulham,Parsons Green and Walham,0.86 ,0.19 ,0.69 ,1.00 ,0.44 ,0.10 ,950000
+E05000261,Hammersmith and Fulham,Ravenscourt Park,0.18 ,0.93 ,0.81 ,0.00 ,0.00 ,0.16 ,585000
+E05000262,Hammersmith and Fulham,Sands End,0.36 ,0.00 ,0.99 ,1.00 ,0.94 ,0.25 ,586500
+E05000263,Hammersmith and Fulham,Shepherd's Bush Green,0.86 ,0.46 ,0.91 ,0.00 ,0.05 ,0.10 ,381000
+E05000264,Hammersmith and Fulham,Town,0.19 ,0.81 ,0.41 ,1.00 ,0.23 ,0.00 ,566000
+E05000265,Hammersmith and Fulham,Wormholt and White City,0.81 ,0.24 ,1.00 ,0.00 ,0.11 ,0.04 ,454300
+E05000266,Haringey,Alexandra,0.28 ,0.07 ,1.00 ,0.00 ,0.00 ,0.52 ,402000
+E05000267,Haringey,Bounds Green,0.61 ,0.11 ,0.96 ,0.01 ,0.00 ,0.25 ,249100
+E05000268,Haringey,Bruce Grove,0.35 ,0.83 ,0.01 ,1.00 ,0.48 ,0.05 ,216500
+E05000269,Haringey,Crouch End,0.30 ,0.16 ,1.00 ,0.10 ,0.00 ,0.14 ,425000
+E05000270,Haringey,Fortis Green,0.62 ,0.50 ,1.00 ,0.00 ,0.00 ,0.25 ,450000
+E05000271,Haringey,Harringay,0.34 ,0.03 ,1.00 ,1.00 ,0.00 ,0.45 ,342500
+E05000272,Haringey,Highgate,0.26 ,0.88 ,1.00 ,0.00 ,0.00 ,0.42 ,410000
+E05000273,Haringey,Hornsey,0.30 ,0.00 ,1.00 ,0.40 ,0.01 ,0.14 ,347047
+E05000274,Haringey,Muswell Hill,0.41 ,0.69 ,1.00 ,0.00 ,0.00 ,0.31 ,450500
+E05000275,Haringey,Noel Park,0.27 ,0.44 ,1.00 ,0.99 ,0.59 ,0.12 ,252000
+E05000276,Haringey,Northumberland Park,0.25 ,0.40 ,0.00 ,1.00 ,0.07 ,0.23 ,185000
+E05000277,Haringey,St. Ann's,0.53 ,0.32 ,1.00 ,1.00 ,0.42 ,0.20 ,275000
+E05000278,Haringey,Seven Sisters,0.57 ,0.00 ,0.83 ,1.00 ,0.00 ,0.23 ,247975
+E05000279,Haringey,Stroud Green,0.23 ,0.00 ,1.00 ,1.00 ,0.02 ,0.25 ,349000
+E05000280,Haringey,Tottenham Green,0.42 ,0.37 ,0.34 ,1.00 ,0.49 ,0.10 ,227000
+E05000281,Haringey,Tottenham Hale,0.37 ,0.38 ,0.00 ,1.00 ,0.01 ,0.29 ,216016
+E05000282,Haringey,West Green,0.66 ,0.98 ,0.66 ,1.00 ,0.62 ,0.38 ,279050
+E05000283,Haringey,White Hart Lane,0.32 ,0.65 ,0.06 ,1.00 ,0.13 ,0.28 ,225000
+E05000284,Haringey,Woodside,0.68 ,0.34 ,0.99 ,0.82 ,0.54 ,0.27 ,257000
+E05000285,Harrow,Belmont,0.21 ,0.19 ,0.00 ,0.00 ,0.01 ,0.11 ,370000
+E05000286,Harrow,Canons,0.16 ,0.78 ,0.00 ,0.00 ,0.04 ,0.57 ,355500
+E05000287,Harrow,Edgware,0.44 ,0.32 ,0.07 ,0.00 ,0.45 ,0.15 ,300000
+E05000288,Harrow,Greenhill,0.10 ,0.83 ,0.00 ,0.00 ,0.36 ,0.08 ,235000
+E05000289,Harrow,Harrow on the Hill,0.14 ,0.31 ,0.24 ,0.00 ,0.19 ,0.43 ,278000
+E05000290,Harrow,Harrow Weald,0.29 ,0.01 ,0.00 ,0.00 ,0.26 ,0.56 ,335000
+E05000291,Harrow,Hatch End,0.00 ,0.05 ,0.00 ,0.00 ,0.05 ,0.31 ,295000
+E05000292,Harrow,Headstone North,0.06 ,0.62 ,0.00 ,0.00 ,0.15 ,0.49 ,377000
+E05000293,Harrow,Headstone South,0.00 ,1.00 ,0.00 ,0.00 ,0.78 ,0.14 ,239725
+E05000294,Harrow,Kenton East,0.32 ,0.00 ,0.67 ,0.00 ,0.52 ,0.07 ,307500
+E05000295,Harrow,Kenton West,0.45 ,0.08 ,0.03 ,0.00 ,0.55 ,0.18 ,352000
+E05000296,Harrow,Marlborough,0.33 ,0.47 ,0.00 ,0.00 ,0.96 ,0.08 ,243000
+E05000297,Harrow,Pinner,0.11 ,0.00 ,0.10 ,0.00 ,0.00 ,0.29 ,385000
+E05000298,Harrow,Pinner South,0.67 ,0.00 ,0.23 ,0.00 ,0.00 ,0.22 ,436000
+E05000299,Harrow,Queensbury,0.30 ,0.01 ,0.23 ,0.00 ,0.86 ,0.23 ,314975
+E05000300,Harrow,Rayners Lane,0.24 ,0.54 ,0.00 ,0.00 ,0.25 ,0.11 ,314000
+E05000301,Harrow,Roxbourne,0.21 ,0.47 ,0.00 ,0.00 ,0.81 ,0.15 ,224995
+E05000302,Harrow,Roxeth,0.45 ,0.50 ,0.16 ,0.00 ,0.63 ,0.18 ,264750
+E05000303,Harrow,Stanmore Park,0.18 ,0.13 ,0.00 ,0.00 ,0.00 ,0.46 ,340000
+E05000304,Harrow,Wealdstone,0.02 ,0.02 ,0.00 ,0.00 ,0.95 ,0.03 ,250000
+E05000305,Harrow,West Harrow,0.28 ,0.53 ,0.00 ,0.00 ,0.28 ,0.20 ,324000
+E05000306,Havering,Brooklands,0.16 ,0.21 ,0.32 ,0.00 ,0.79 ,0.45 ,172998
+E05000307,Havering,Cranham,0.23 ,0.74 ,0.00 ,0.00 ,0.32 ,0.56 ,270000
+E05000308,Havering,Elm Park,0.08 ,0.47 ,1.00 ,0.00 ,0.00 ,0.56 ,212000
+E05000309,Havering,Emerson Park,0.14 ,0.10 ,0.00 ,0.00 ,0.91 ,0.31 ,295000
+E05000310,Havering,Gooshays,0.32 ,0.97 ,0.47 ,0.00 ,0.00 ,0.68 ,175000
+E05000311,Havering,Hacton,0.00 ,0.00 ,0.88 ,0.00 ,0.14 ,0.24 ,250000
+E05000312,Havering,Harold Wood,0.00 ,0.62 ,0.00 ,0.00 ,0.18 ,0.61 ,220000
+E05000313,Havering,Havering Park,0.10 ,0.00 ,1.00 ,0.00 ,0.02 ,0.75 ,203650
+E05000314,Havering,Heaton,0.01 ,0.17 ,0.79 ,0.00 ,0.71 ,0.45 ,170000
+E05000315,Havering,Hylands,0.15 ,0.40 ,0.52 ,0.00 ,0.48 ,0.26 ,243000
+E05000316,Havering,Mawneys,0.30 ,0.00 ,0.57 ,0.00 ,0.26 ,0.32 ,210000
+E05000317,Havering,Pettits,0.39 ,0.00 ,0.80 ,0.00 ,0.59 ,0.32 ,255000
+E05000318,Havering,Rainham and Wennington,0.38 ,0.00 ,0.01 ,0.00 ,0.24 ,0.79 ,200500
+E05000319,Havering,Romford Town,0.33 ,0.00 ,0.20 ,0.00 ,0.71 ,0.08 ,206000
+E05000320,Havering,St. Andrew's,0.11 ,0.05 ,0.51 ,0.00 ,0.85 ,0.19 ,242500
+E05000321,Havering,South Hornchurch,0.43 ,0.36 ,1.00 ,0.00 ,0.03 ,0.45 ,199998
+E05000322,Havering,Squirrel's Heath,0.12 ,0.04 ,0.00 ,0.00 ,0.87 ,0.17 ,239998
+E05000323,Havering,Upminster,0.17 ,0.02 ,0.05 ,0.00 ,0.30 ,0.82 ,365000
+E05000324,Hillingdon,Barnhill,0.33 ,0.27 ,1.00 ,0.00 ,0.00 ,0.28 ,242000
+E05000325,Hillingdon,Botwell,0.33 ,0.85 ,0.42 ,0.00 ,0.25 ,0.32 ,210000
+E05000326,Hillingdon,Brunel,0.14 ,0.65 ,0.01 ,0.00 ,0.28 ,0.40 ,235000
+E05000327,Hillingdon,Cavendish,0.15 ,0.80 ,0.18 ,0.00 ,0.00 ,0.18 ,317500
+E05000328,Hillingdon,Charville,0.31 ,0.25 ,0.98 ,0.00 ,0.25 ,0.45 ,247500
+E05000329,Hillingdon,Eastcote and East Ruislip,0.51 ,0.01 ,0.95 ,0.00 ,0.05 ,0.33 ,423000
+E05000330,Hillingdon,Harefield,0.07 ,0.39 ,0.42 ,0.00 ,0.00 ,0.86 ,250000
+E05000331,Hillingdon,Heathrow Villages,0.41 ,0.22 ,0.48 ,0.00 ,0.58 ,0.31 ,210000
+E05000332,Hillingdon,Hillingdon East,0.29 ,0.90 ,0.01 ,0.00 ,0.01 ,0.48 ,250000
+E05000333,Hillingdon,Ickenham,0.15 ,0.92 ,0.00 ,0.00 ,0.00 ,0.56 ,397975
+E05000334,Hillingdon,Manor,0.13 ,0.83 ,0.66 ,0.00 ,0.17 ,0.18 ,284999
+E05000335,Hillingdon,Northwood,0.22 ,0.01 ,0.78 ,0.00 ,0.09 ,0.61 ,328000
+E05000336,Hillingdon,Northwood Hills,0.46 ,0.00 ,0.88 ,0.00 ,0.00 ,0.33 ,347500
+E05000337,Hillingdon,Pinkwell,0.41 ,0.56 ,0.00 ,0.00 ,1.00 ,0.27 ,242500
+E05000338,Hillingdon,South Ruislip,0.34 ,0.86 ,0.15 ,0.00 ,0.36 ,0.63 ,270000
+E05000339,Hillingdon,Townfield,0.39 ,0.71 ,0.88 ,0.00 ,0.03 ,0.31 ,250000
+E05000340,Hillingdon,Uxbridge North,0.15 ,0.95 ,0.00 ,0.00 ,0.07 ,0.34 ,231000
+E05000341,Hillingdon,Uxbridge South,0.50 ,0.27 ,0.00 ,0.00 ,0.00 ,0.26 ,230000
+E05000342,Hillingdon,West Drayton,0.20 ,0.19 ,0.17 ,0.00 ,0.22 ,0.32 ,241000
+E05000343,Hillingdon,West Ruislip,0.18 ,0.41 ,0.81 ,0.00 ,0.06 ,0.49 ,315000
+E05000344,Hillingdon,Yeading,0.22 ,0.26 ,1.00 ,0.00 ,0.00 ,0.33 ,215250
+E05000345,Hillingdon,Yiewsley,0.45 ,0.22 ,0.00 ,0.00 ,0.00 ,0.41 ,205000
+E05000346,Hounslow,Bedfont,0.15 ,0.22 ,0.94 ,0.00 ,0.00 ,0.52 ,181000
+E05000347,Hounslow,Brentford,0.31 ,0.43 ,1.00 ,0.23 ,0.15 ,0.43 ,338500
+E05000348,Hounslow,Chiswick Homefields,0.65 ,0.57 ,1.00 ,0.49 ,0.05 ,0.42 ,672500
+E05000349,Hounslow,Chiswick Riverside,0.30 ,0.21 ,1.00 ,1.00 ,0.00 ,0.35 ,462500
+E05000350,Hounslow,Cranford,0.53 ,0.40 ,0.52 ,0.00 ,0.17 ,0.27 ,249000
+E05000351,Hounslow,Feltham North,0.51 ,0.70 ,0.86 ,0.00 ,0.00 ,0.36 ,225000
+E05000352,Hounslow,Feltham West,0.60 ,0.33 ,0.48 ,0.00 ,0.01 ,0.41 ,205000
+E05000353,Hounslow,Hanworth,0.51 ,0.85 ,0.50 ,0.00 ,0.00 ,0.45 ,222500
+E05000354,Hounslow,Hanworth Park,0.53 ,0.86 ,0.37 ,0.00 ,0.00 ,0.41 ,205000
+E05000355,Hounslow,Heston Central,0.46 ,0.62 ,1.00 ,0.00 ,0.83 ,0.16 ,250000
+E05000356,Hounslow,Heston East,0.65 ,0.43 ,1.00 ,0.00 ,0.34 ,0.27 ,249750
+E05000357,Hounslow,Heston West,0.46 ,0.20 ,0.77 ,0.00 ,0.55 ,0.39 ,245000
+E05000358,Hounslow,Hounslow Central,0.64 ,0.61 ,1.00 ,0.00 ,0.86 ,0.11 ,231125
+E05000359,Hounslow,Hounslow Heath,0.01 ,0.31 ,1.00 ,0.00 ,0.43 ,0.49 ,226500
+E05000360,Hounslow,Hounslow South,0.30 ,0.10 ,0.73 ,0.06 ,0.31 ,0.18 ,302500
+E05000361,Hounslow,Hounslow West,0.19 ,0.54 ,1.00 ,0.00 ,0.49 ,0.10 ,245000
+E05000362,Hounslow,Isleworth,0.48 ,0.92 ,0.88 ,0.86 ,0.00 ,0.23 ,257500
+E05000363,Hounslow,Osterley and Spring Grove,0.28 ,0.04 ,1.00 ,0.00 ,0.13 ,0.54 ,400000
+E05000364,Hounslow,Syon,0.36 ,0.30 ,1.00 ,0.12 ,0.24 ,0.42 ,276000
+E05000365,Hounslow,Turnham Green,0.49 ,0.00 ,1.00 ,0.47 ,0.00 ,0.07 ,442500
+E05000366,Islington,Barnsbury,0.79 ,0.00 ,0.01 ,0.17 ,0.68 ,0.11 ,523500
+E05000367,Islington,Bunhill,0.53 ,0.00 ,0.00 ,0.00 ,1.00 ,0.14 ,480000
+E05000368,Islington,Caledonian,0.45 ,0.00 ,0.25 ,0.00 ,0.43 ,0.16 ,361000
+E05000369,Islington,Canonbury,0.59 ,0.00 ,0.00 ,1.00 ,0.00 ,0.14 ,482500
+E05000370,Islington,Clerkenwell,0.55 ,0.00 ,0.00 ,0.00 ,1.00 ,0.09 ,573475
+E05000371,Islington,Finsbury Park,0.32 ,0.00 ,1.00 ,0.97 ,0.28 ,0.16 ,273950
+E05000372,Islington,Highbury East,0.44 ,0.59 ,0.96 ,1.00 ,0.03 ,0.22 ,499950
+E05000373,Islington,Highbury West,0.59 ,0.45 ,1.00 ,0.98 ,0.02 ,0.11 ,400000
+E05000374,Islington,Hillrise,0.63 ,0.00 ,1.00 ,0.05 ,0.00 ,0.18 ,371000
+E05000375,Islington,Holloway,0.76 ,0.00 ,0.73 ,0.08 ,0.14 ,0.17 ,364950
+E05000376,Islington,Junction,0.68 ,0.00 ,1.00 ,0.00 ,0.26 ,0.17 ,375000
+E05000377,Islington,Mildmay,0.04 ,0.51 ,0.44 ,1.00 ,0.17 ,0.10 ,368750
+E05000378,Islington,St. George's,0.62 ,0.00 ,1.00 ,0.01 ,0.72 ,0.08 ,358750
+E05000379,Islington,St. Mary's,0.93 ,0.00 ,0.07 ,0.86 ,0.11 ,0.10 ,530000
+E05000380,Islington,St. Peter's,0.68 ,0.00 ,0.00 ,0.61 ,0.32 ,0.10 ,460375
+E05000381,Islington,Tollington,0.79 ,0.00 ,1.00 ,0.52 ,0.03 ,0.13 ,333000
+E05000382,Kensington and Chelsea,Abingdon,0.85 ,1.00 ,1.00 ,0.00 ,0.00 ,0.06 ,900000
+E05000383,Kensington and Chelsea,Brompton,0.82 ,0.18 ,1.00 ,0.00 ,0.03 ,0.11 ,1295000
+E05000384,Kensington and Chelsea,Campden,0.77 ,0.99 ,1.00 ,0.00 ,0.00 ,0.28 ,1350000
+E05000385,Kensington and Chelsea,Colville,1.00 ,0.17 ,1.00 ,0.00 ,0.24 ,0.11 ,762564
+E05000386,Kensington and Chelsea,Courtfield,0.85 ,0.20 ,1.00 ,0.00 ,0.01 ,0.13 ,1145000
+E05000387,Kensington and Chelsea,Cremorne,0.77 ,0.00 ,1.00 ,0.56 ,0.00 ,0.29 ,785000
+E05000388,Kensington and Chelsea,Earl's Court,0.44 ,0.66 ,1.00 ,0.10 ,0.00 ,0.10 ,670000
+E05000389,Kensington and Chelsea,Golborne,0.97 ,0.00 ,1.00 ,0.00 ,0.00 ,0.35 ,402500
+E05000390,Kensington and Chelsea,Hans Town,0.92 ,0.05 ,1.00 ,0.00 ,0.25 ,0.08 ,1212500
+E05000391,Kensington and Chelsea,Holland,0.85 ,1.00 ,0.96 ,0.00 ,0.00 ,0.28 ,797500
+E05000392,Kensington and Chelsea,Norland,0.99 ,0.76 ,1.00 ,0.00 ,0.28 ,0.15 ,1065000
+E05000393,Kensington and Chelsea,Notting Barns,0.99 ,0.00 ,1.00 ,0.00 ,0.67 ,0.09 ,595000
+E05000394,Kensington and Chelsea,Pembridge,0.51 ,0.92 ,1.00 ,0.00 ,0.06 ,0.12 ,950000
+E05000395,Kensington and Chelsea,Queen's Gate,0.97 ,0.20 ,1.00 ,0.00 ,0.00 ,0.06 ,1312500
+E05000396,Kensington and Chelsea,Redcliffe,0.83 ,0.02 ,1.00 ,0.26 ,0.00 ,0.28 ,755000
+E05000397,Kensington and Chelsea,Royal Hospital,0.97 ,0.00 ,1.00 ,0.00 ,0.00 ,0.43 ,1175000
+E05000398,Kensington and Chelsea,St. Charles,0.99 ,0.00 ,1.00 ,0.00 ,0.01 ,0.22 ,610000
+E05000399,Kensington and Chelsea,Stanley,0.69 ,0.00 ,1.00 ,0.36 ,0.17 ,0.09 ,848000
+E05000400,Kingston upon Thames,Alexandra,0.21 ,0.00 ,0.00 ,0.20 ,0.00 ,0.43 ,345000
+E05000401,Kingston upon Thames,Berrylands,0.31 ,0.00 ,0.00 ,1.00 ,0.00 ,0.11 ,320000
+E05000402,Kingston upon Thames,Beverley,0.34 ,0.00 ,0.00 ,1.00 ,0.40 ,0.26 ,347500
+E05000403,Kingston upon Thames,Canbury,0.25 ,0.04 ,0.98 ,1.00 ,0.03 ,0.07 ,398250
+E05000404,Kingston upon Thames,Chessington North and Hook,0.31 ,0.00 ,0.73 ,0.00 ,0.62 ,0.28 ,250000
+E05000405,Kingston upon Thames,Chessington South,0.50 ,0.00 ,0.84 ,0.00 ,0.04 ,0.76 ,240000
+E05000406,Kingston upon Thames,Coombe Hill,0.16 ,0.00 ,0.01 ,1.00 ,0.12 ,0.42 ,500000
+E05000407,Kingston upon Thames,Coombe Vale,0.15 ,0.00 ,0.00 ,1.00 ,0.75 ,0.11 ,405000
+E05000408,Kingston upon Thames,Grove,0.28 ,0.00 ,0.99 ,1.00 ,0.59 ,0.24 ,342500
+E05000409,Kingston upon Thames,Norbiton,0.29 ,0.00 ,0.74 ,1.00 ,0.95 ,0.34 ,270000
+E05000410,Kingston upon Thames,Old Malden,0.31 ,0.97 ,0.04 ,0.12 ,0.16 ,0.22 ,355000
+E05000411,Kingston upon Thames,St. James,0.06 ,0.50 ,0.00 ,0.98 ,0.71 ,0.28 ,335950
+E05000412,Kingston upon Thames,St. Mark's,0.20 ,0.00 ,0.25 ,1.00 ,0.35 ,0.24 ,322500
+E05000413,Kingston upon Thames,Surbiton Hill,0.20 ,0.00 ,0.00 ,0.67 ,0.03 ,0.06 ,282000
+E05000414,Kingston upon Thames,Tolworth and Hook Rise,0.20 ,0.00 ,0.07 ,0.06 ,0.39 ,0.33 ,270000
+E05000415,Kingston upon Thames,Tudor,0.44 ,0.73 ,0.89 ,1.00 ,0.00 ,0.23 ,437000
+E05000416,Lambeth,Bishop's,0.70 ,0.18 ,0.00 ,0.00 ,0.90 ,0.32 ,402500
+E05000417,Lambeth,Brixton Hill,0.61 ,0.52 ,1.00 ,0.00 ,0.41 ,0.13 ,310000
+E05000418,Lambeth,Clapham Common,0.00 ,0.00 ,1.00 ,0.00 ,0.10 ,0.28 ,465000
+E05000419,Lambeth,Clapham Town,0.33 ,0.00 ,1.00 ,0.00 ,0.00 ,0.13 ,415000
+E05000420,Lambeth,Coldharbour,0.58 ,0.36 ,0.40 ,0.00 ,0.36 ,0.14 ,300000
+E05000421,Lambeth,Ferndale,0.36 ,0.03 ,0.98 ,0.00 ,0.70 ,0.10 ,347500
+E05000422,Lambeth,Gipsy Hill,0.59 ,0.00 ,0.97 ,0.00 ,0.24 ,0.26 ,268750
+E05000423,Lambeth,Herne Hill,0.26 ,0.51 ,0.01 ,0.00 ,0.00 ,0.38 ,339950
+E05000424,Lambeth,Knight's Hill,0.51 ,0.52 ,0.71 ,0.00 ,0.05 ,0.13 ,255000
+E05000425,Lambeth,Larkhall,0.52 ,0.00 ,1.00 ,0.00 ,0.86 ,0.20 ,330000
+E05000426,Lambeth,Oval,0.81 ,0.00 ,0.36 ,0.00 ,1.00 ,0.25 ,345000
+E05000427,Lambeth,Prince's,0.63 ,0.00 ,0.00 ,0.00 ,1.00 ,0.21 ,415000
+E05000428,Lambeth,St. Leonard's,0.43 ,0.67 ,1.00 ,0.00 ,0.00 ,0.13 ,250000
+E05000429,Lambeth,Stockwell,0.87 ,0.00 ,0.83 ,0.00 ,1.00 ,0.13 ,262475
+E05000430,Lambeth,Streatham Hill,0.23 ,0.13 ,1.00 ,0.00 ,0.00 ,0.14 ,292500
+E05000431,Lambeth,Streatham South,0.39 ,0.76 ,0.98 ,0.00 ,0.01 ,0.27 ,268000
+E05000432,Lambeth,Streatham Wells,0.09 ,0.58 ,1.00 ,0.00 ,0.04 ,0.18 ,250000
+E05000433,Lambeth,Thornton,0.04 ,0.00 ,1.00 ,0.00 ,0.18 ,0.22 ,457500
+E05000434,Lambeth,Thurlow Park,0.25 ,0.65 ,0.08 ,0.00 ,0.00 ,0.20 ,307500
+E05000435,Lambeth,Tulse Hill,0.40 ,1.00 ,0.76 ,0.00 ,0.00 ,0.17 ,285000
+E05000436,Lambeth,Vassall,0.90 ,0.19 ,0.10 ,0.00 ,0.85 ,0.17 ,315000
+E05000437,Lewisham,Bellingham,0.39 ,0.08 ,0.82 ,0.00 ,0.00 ,0.47 ,210000
+E05000438,Lewisham,Blackheath,0.19 ,0.01 ,1.00 ,0.00 ,0.00 ,0.35 ,322500
+E05000439,Lewisham,Brockley,0.25 ,0.01 ,0.77 ,0.00 ,0.21 ,0.13 ,250000
+E05000440,Lewisham,Catford South,0.21 ,0.02 ,0.48 ,0.00 ,0.06 ,0.03 ,247500
+E05000441,Lewisham,Crofton Park,0.23 ,0.52 ,0.00 ,0.00 ,0.09 ,0.21 ,307000
+E05000442,Lewisham,Downham,0.61 ,0.00 ,0.97 ,0.00 ,0.00 ,0.30 ,183500
+E05000443,Lewisham,Evelyn,0.51 ,0.35 ,0.39 ,0.00 ,0.41 ,0.23 ,231000
+E05000444,Lewisham,Forest Hill,0.47 ,0.17 ,0.54 ,0.00 ,0.00 ,0.22 ,269950
+E05000445,Lewisham,Grove Park,0.46 ,0.38 ,0.01 ,0.00 ,0.17 ,0.22 ,235000
+E05000446,Lewisham,Ladywell,0.51 ,0.71 ,0.73 ,0.00 ,0.00 ,0.26 ,272000
+E05000447,Lewisham,Lee Green,0.40 ,0.15 ,0.85 ,0.00 ,0.11 ,0.12 ,301000
+E05000448,Lewisham,Lewisham Central,0.68 ,0.54 ,0.75 ,0.00 ,0.09 ,0.14 ,220000
+E05000449,Lewisham,New Cross,0.48 ,0.00 ,0.39 ,0.00 ,0.69 ,0.17 ,186000
+E05000450,Lewisham,Perry Vale,0.22 ,0.04 ,0.26 ,0.00 ,0.17 ,0.10 ,250000
+E05000451,Lewisham,Rushey Green,0.55 ,0.88 ,0.09 ,0.00 ,0.01 ,0.24 ,218000
+E05000452,Lewisham,Sydenham,0.48 ,0.00 ,1.00 ,0.00 ,0.00 ,0.13 ,250000
+E05000453,Lewisham,Telegraph Hill,0.49 ,0.05 ,0.00 ,0.00 ,0.48 ,0.16 ,258000
+E05000454,Lewisham,Whitefoot,0.42 ,0.00 ,0.85 ,0.00 ,0.00 ,0.28 ,230000
+E05000455,Merton,Abbey,0.44 ,0.38 ,0.00 ,1.00 ,0.00 ,0.13 ,345000
+E05000456,Merton,Cannon Hill,0.36 ,1.00 ,0.00 ,1.00 ,0.00 ,0.43 ,337000
+E05000457,Merton,Colliers Wood,0.66 ,0.00 ,0.68 ,0.88 ,0.00 ,0.15 ,250000
+E05000458,Merton,Cricket Green,0.35 ,0.17 ,1.00 ,0.21 ,0.00 ,0.50 ,207250
+E05000459,Merton,Dundonald,0.28 ,0.03 ,0.00 ,1.00 ,0.22 ,0.15 ,426000
+E05000460,Merton,Figge's Marsh,0.45 ,0.00 ,1.00 ,0.00 ,0.11 ,0.23 ,208995
+E05000461,Merton,Graveney,0.33 ,0.00 ,1.00 ,0.00 ,0.47 ,0.12 ,280000
+E05000462,Merton,Hillside,0.01 ,0.06 ,0.00 ,1.00 ,0.45 ,0.06 ,427500
+E05000463,Merton,Lavender Fields,0.44 ,0.02 ,0.85 ,0.71 ,0.04 ,0.19 ,211500
+E05000464,Merton,Longthornton,0.18 ,0.00 ,1.00 ,0.00 ,0.21 ,0.37 ,245000
+E05000465,Merton,Lower Morden,0.43 ,0.82 ,0.10 ,0.81 ,0.10 ,0.34 ,270000
+E05000466,Merton,Merton Park,0.44 ,0.78 ,0.00 ,1.00 ,0.04 ,0.19 ,403500
+E05000467,Merton,Pollards Hill,0.37 ,0.00 ,1.00 ,0.00 ,0.00 ,0.53 ,226500
+E05000468,Merton,Ravensbury,0.82 ,0.93 ,0.64 ,0.30 ,0.03 ,0.38 ,225000
+E05000469,Merton,Raynes Park,0.31 ,0.03 ,0.00 ,1.00 ,0.67 ,0.24 ,429500
+E05000470,Merton,St. Helier,0.55 ,0.93 ,0.00 ,0.46 ,0.07 ,0.42 ,216500
+E05000471,Merton,Trinity,0.83 ,0.00 ,0.00 ,1.00 ,0.07 ,0.16 ,370750
+E05000472,Merton,Village,0.19 ,0.23 ,0.00 ,1.00 ,0.04 ,0.62 ,1033000
+E05000473,Merton,West Barnes,0.06 ,0.60 ,0.00 ,1.00 ,0.03 ,0.32 ,342000
+E05000474,Merton,Wimbledon Park,0.25 ,0.62 ,0.20 ,1.00 ,0.16 ,0.29 ,521250
+E05000475,Newham,Beckton,0.25 ,0.77 ,0.00 ,0.00 ,0.10 ,0.31 ,212500
+E05000476,Newham,Boleyn,0.51 ,0.82 ,0.01 ,0.00 ,0.50 ,0.06 ,222500
+E05000477,Newham,Canning Town North,0.86 ,0.00 ,0.00 ,0.35 ,0.01 ,0.22 ,210000
+E05000478,Newham,Canning Town South,0.47 ,0.03 ,0.00 ,0.00 ,0.52 ,0.27 ,212000
+E05000479,Newham,Custom House,0.68 ,0.69 ,0.00 ,0.00 ,0.26 ,0.31 ,207500
+E05000480,Newham,East Ham Central,0.17 ,1.00 ,0.17 ,0.00 ,0.81 ,0.11 ,220000
+E05000481,Newham,East Ham North,0.42 ,0.04 ,1.00 ,0.39 ,0.84 ,0.12 ,215000
+E05000482,Newham,East Ham South,0.41 ,1.00 ,0.00 ,0.00 ,0.00 ,0.23 ,197500
+E05000483,Newham,Forest Gate North,0.32 ,0.04 ,1.00 ,1.00 ,0.33 ,0.14 ,232500
+E05000484,Newham,Forest Gate South,0.02 ,0.86 ,1.00 ,1.00 ,0.72 ,0.02 ,249500
+E05000485,Newham,Green Street East,0.25 ,0.35 ,0.97 ,0.75 ,0.51 ,0.02 ,235000
+E05000486,Newham,Green Street West,0.00 ,0.96 ,0.91 ,0.88 ,0.94 ,0.03 ,210000
+E05000487,Newham,Little Ilford,0.56 ,0.00 ,1.00 ,0.74 ,0.19 ,0.49 ,185000
+E05000488,Newham,Manor Park,0.20 ,0.00 ,1.00 ,0.97 ,0.01 ,0.27 ,194000
+E05000489,Newham,Plaistow North,0.34 ,0.74 ,0.12 ,0.67 ,0.20 ,0.10 ,220000
+E05000490,Newham,Plaistow South,0.69 ,0.54 ,0.00 ,0.00 ,0.01 ,0.15 ,190000
+E05000491,Newham,Royal Docks,0.36 ,0.00 ,0.00 ,0.00 ,0.59 ,0.58 ,246500
+E05000492,Newham,Stratford and New Town,0.32 ,0.15 ,0.61 ,1.00 ,0.48 ,0.11 ,240000
+E05000493,Newham,Wall End,0.33 ,0.63 ,0.13 ,0.00 ,0.61 ,0.34 ,215000
+E05000494,Newham,West Ham,0.64 ,0.92 ,0.00 ,1.00 ,0.25 ,0.27 ,240000
+E05000495,Redbridge,Aldborough,0.03 ,0.48 ,0.59 ,0.18 ,0.34 ,0.77 ,250000
+E05000496,Redbridge,Barkingside,0.27 ,0.61 ,0.83 ,0.98 ,0.51 ,0.01 ,308750
+E05000497,Redbridge,Bridge,0.25 ,0.89 ,1.00 ,1.00 ,0.06 ,0.36 ,286500
+E05000498,Redbridge,Chadwell,0.26 ,0.37 ,0.04 ,0.00 ,0.65 ,0.05 ,240000
+E05000499,Redbridge,Church End,0.05 ,0.00 ,1.00 ,1.00 ,0.00 ,0.03 ,285000
+E05000500,Redbridge,Clayhall,0.65 ,0.25 ,1.00 ,1.00 ,0.42 ,0.20 ,345000
+E05000501,Redbridge,Clementswood,0.16 ,0.37 ,0.06 ,0.00 ,0.12 ,0.08 ,200000
+E05000502,Redbridge,Cranbrook,0.42 ,0.87 ,1.00 ,1.00 ,0.02 ,0.33 ,327500
+E05000503,Redbridge,Fairlop,0.46 ,0.77 ,0.89 ,0.32 ,0.30 ,0.48 ,260000
+E05000504,Redbridge,Fullwell,0.57 ,0.96 ,1.00 ,0.76 ,0.22 ,0.25 ,274000
+E05000505,Redbridge,Goodmayes,0.27 ,0.12 ,0.14 ,0.00 ,0.02 ,0.31 ,216000
+E05000506,Redbridge,Hainault,0.15 ,0.70 ,0.99 ,0.01 ,0.20 ,0.60 ,217000
+E05000507,Redbridge,Loxford,0.47 ,0.90 ,0.12 ,0.01 ,0.00 ,0.18 ,199000
+E05000508,Redbridge,Mayfield,0.48 ,0.84 ,0.28 ,0.00 ,0.05 ,0.17 ,250000
+E05000509,Redbridge,Monkhams,0.24 ,0.00 ,0.84 ,1.00 ,0.00 ,0.30 ,387000
+E05000510,Redbridge,Newbury,0.00 ,0.95 ,0.30 ,0.19 ,0.41 ,0.21 ,275000
+E05000511,Redbridge,Roding,0.41 ,0.26 ,1.00 ,1.00 ,0.00 ,0.36 ,315000
+E05000512,Redbridge,Seven Kings,0.31 ,1.00 ,0.11 ,0.00 ,0.46 ,0.30 ,250000
+E05000513,Redbridge,Snaresbrook,0.29 ,0.00 ,1.00 ,1.00 ,0.00 ,0.11 ,276000
+E05000514,Redbridge,Valentines,0.00 ,1.00 ,0.24 ,0.60 ,0.00 ,0.14 ,250000
+E05000515,Redbridge,Wanstead,0.27 ,0.00 ,1.00 ,1.00 ,0.00 ,0.64 ,433375
+E05000516,Richmond upon Thames,Barnes,0.45 ,0.44 ,0.76 ,1.00 ,0.00 ,0.54 ,727555
+E05000517,Richmond upon Thames,East Sheen,0.25 ,0.67 ,0.30 ,1.00 ,0.00 ,0.77 ,697000
+E05000518,Richmond upon Thames,Fulwell and Hampton Hill,0.00 ,0.00 ,1.00 ,0.00 ,0.09 ,0.33 ,442500
+E05000519,Richmond upon Thames,"Ham, Petersham & Richmond Riverside",0.34 ,0.80 ,0.81 ,1.00 ,0.00 ,0.82 ,393000
+E05000520,Richmond upon Thames,Hampton,0.39 ,0.00 ,1.00 ,0.04 ,0.30 ,0.75 ,370000
+E05000521,Richmond upon Thames,Hampton North,0.42 ,0.00 ,0.91 ,0.00 ,0.08 ,0.28 ,315000
+E05000522,Richmond upon Thames,Hampton Wick,0.27 ,0.00 ,1.00 ,1.00 ,0.02 ,0.50 ,382250
+E05000523,Richmond upon Thames,Heathfield,0.32 ,0.76 ,1.00 ,0.00 ,0.03 ,0.27 ,315000
+E05000524,Richmond upon Thames,Kew,0.33 ,0.03 ,0.53 ,1.00 ,0.38 ,0.57 ,525000
+E05000525,Richmond upon Thames,Mortlake and Barnes Common,0.34 ,0.62 ,0.86 ,1.00 ,0.00 ,0.42 ,542500
+E05000526,Richmond upon Thames,North Richmond,0.12 ,0.88 ,0.09 ,1.00 ,0.42 ,0.54 ,495000
+E05000527,Richmond upon Thames,St. Margarets & North Twickenham,0.46 ,0.64 ,0.44 ,1.00 ,0.20 ,0.24 ,550000
+E05000528,Richmond upon Thames,South Richmond,0.21 ,0.77 ,0.00 ,1.00 ,0.00 ,0.47 ,520000
+E05000529,Richmond upon Thames,South Twickenham,0.32 ,0.00 ,0.45 ,0.89 ,0.02 ,0.27 ,419000
+E05000530,Richmond upon Thames,Teddington,0.00 ,0.00 ,1.00 ,0.68 ,0.13 ,0.64 ,440000
+E05000531,Richmond upon Thames,Twickenham Riverside,0.27 ,0.85 ,0.01 ,1.00 ,0.00 ,0.38 ,448000
+E05000532,Richmond upon Thames,West Twickenham,0.64 ,0.41 ,0.77 ,0.22 ,0.00 ,0.46 ,366000
+E05000533,Richmond upon Thames,Whitton,0.21 ,0.00 ,0.90 ,0.20 ,0.35 ,0.21 ,346250
+E05000534,Southwark,Brunswick Park,0.11 ,0.75 ,0.00 ,0.00 ,0.07 ,0.07 ,280250
+E05000535,Southwark,Camberwell Green,0.25 ,0.97 ,0.00 ,0.00 ,0.01 ,0.02 ,280000
+E05000536,Southwark,Cathedrals,0.46 ,0.00 ,0.00 ,0.00 ,1.00 ,0.15 ,500000
+E05000537,Southwark,Chaucer,0.73 ,0.02 ,0.00 ,0.00 ,1.00 ,0.06 ,360000
+E05000538,Southwark,College,0.38 ,0.43 ,0.62 ,0.00 ,0.02 ,0.44 ,250000
+E05000539,Southwark,East Dulwich,0.00 ,1.00 ,0.00 ,0.00 ,0.11 ,0.01 ,466000
+E05000540,Southwark,East Walworth,0.18 ,0.91 ,0.00 ,0.00 ,0.28 ,0.24 ,237500
+E05000541,Southwark,Faraday,0.15 ,1.00 ,0.00 ,0.00 ,0.00 ,0.30 ,280000
+E05000542,Southwark,Grange,0.08 ,0.47 ,0.00 ,0.00 ,0.60 ,0.04 ,360000
+E05000543,Southwark,Livesey,0.17 ,0.59 ,0.00 ,0.00 ,0.42 ,0.05 ,231750
+E05000544,Southwark,Newington,0.64 ,0.51 ,0.00 ,0.00 ,0.59 ,0.04 ,310000
+E05000545,Southwark,Nunhead,0.14 ,0.55 ,0.00 ,0.00 ,0.49 ,0.20 ,280250
+E05000546,Southwark,Peckham,0.00 ,0.97 ,0.00 ,0.00 ,0.17 ,0.07 ,202500
+E05000547,Southwark,Peckham Rye,0.20 ,1.00 ,0.00 ,0.00 ,0.00 ,0.46 ,350000
+E05000548,Southwark,Riverside,0.07 ,0.59 ,0.00 ,0.00 ,0.49 ,0.23 ,485000
+E05000549,Southwark,Rotherhithe,0.44 ,0.96 ,0.00 ,0.00 ,0.00 ,0.34 ,310000
+E05000550,Southwark,South Bermondsey,0.00 ,0.99 ,0.00 ,0.00 ,0.00 ,0.03 ,228000
+E05000551,Southwark,South Camberwell,0.14 ,0.28 ,0.00 ,0.00 ,0.29 ,0.20 ,315000
+E05000552,Southwark,Surrey Docks,0.15 ,0.41 ,0.00 ,0.00 ,0.00 ,0.40 ,325000
+E05000553,Southwark,The Lane,0.32 ,0.91 ,0.00 ,0.00 ,0.50 ,0.06 ,320000
+E05000554,Southwark,Village,0.23 ,0.87 ,0.01 ,0.00 ,0.17 ,0.34 ,580000
+E05000555,Sutton,Beddington North,0.36 ,0.00 ,1.00 ,0.00 ,0.02 ,0.53 ,247650
+E05000556,Sutton,Beddington South,0.12 ,0.03 ,1.00 ,0.00 ,0.03 ,0.39 ,346000
+E05000557,Sutton,Belmont,0.24 ,0.01 ,0.20 ,0.00 ,0.10 ,0.19 ,222000
+E05000558,Sutton,Carshalton Central,0.50 ,0.00 ,0.59 ,0.00 ,0.29 ,0.27 ,255000
+E05000559,Sutton,Carshalton South and Clockhouse,0.54 ,0.00 ,0.31 ,0.00 ,0.37 ,0.68 ,381200
+E05000560,Sutton,Cheam,0.08 ,0.67 ,0.86 ,0.00 ,0.08 ,0.25 ,369000
+E05000561,Sutton,Nonsuch,0.42 ,0.52 ,1.00 ,0.00 ,0.08 ,0.10 ,342000
+E05000562,Sutton,St. Helier,0.63 ,0.46 ,0.66 ,0.00 ,0.02 ,0.26 ,203000
+E05000563,Sutton,Stonecot,0.59 ,0.37 ,0.57 ,0.00 ,0.74 ,0.22 ,265000
+E05000564,Sutton,Sutton Central,0.54 ,0.00 ,0.08 ,0.00 ,0.88 ,0.13 ,195000
+E05000565,Sutton,Sutton North,0.59 ,0.00 ,0.04 ,0.00 ,0.58 ,0.27 ,242000
+E05000566,Sutton,Sutton South,0.09 ,0.00 ,0.12 ,0.00 ,0.16 ,0.08 ,188500
+E05000567,Sutton,Sutton West,0.27 ,0.20 ,0.98 ,0.00 ,0.43 ,0.23 ,242000
+E05000568,Sutton,The Wrythe,0.41 ,0.00 ,0.57 ,0.00 ,0.17 ,0.18 ,220500
+E05000569,Sutton,Wallington North,0.18 ,0.00 ,1.00 ,0.00 ,0.06 ,0.20 ,228000
+E05000570,Sutton,Wallington South,0.11 ,0.00 ,1.00 ,0.00 ,0.88 ,0.09 ,198975
+E05000571,Sutton,Wandle Valley,0.43 ,0.72 ,1.00 ,0.00 ,0.00 ,0.41 ,199995
+E05000572,Sutton,Worcester Park,0.43 ,0.22 ,0.81 ,0.00 ,0.42 ,0.22 ,270000
+E05000573,Tower Hamlets,Bethnal Green North,0.88 ,1.00 ,1.00 ,1.00 ,0.02 ,0.06 ,311000
+E05000574,Tower Hamlets,Bethnal Green South,0.85 ,0.26 ,0.97 ,0.99 ,0.77 ,0.17 ,260000
+E05000575,Tower Hamlets,Blackwall and Cubitt Town,0.56 ,0.54 ,0.00 ,0.28 ,0.12 ,0.42 ,348500
+E05000576,Tower Hamlets,Bow East,0.15 ,0.49 ,1.00 ,1.00 ,0.00 ,0.30 ,261500
+E05000577,Tower Hamlets,Bow West,0.33 ,1.00 ,1.00 ,1.00 ,0.00 ,0.43 ,355000
+E05000578,Tower Hamlets,Bromley-by-Bow,0.44 ,0.31 ,0.45 ,1.00 ,0.00 ,0.12 ,250000
+E05000579,Tower Hamlets,East India and Lansbury,0.56 ,0.03 ,0.00 ,1.00 ,0.49 ,0.13 ,210250
+E05000580,Tower Hamlets,Limehouse,0.74 ,0.51 ,0.03 ,0.79 ,0.24 ,0.23 ,286500
+E05000581,Tower Hamlets,Mile End and Globe Town,0.43 ,1.00 ,1.00 ,1.00 ,0.00 ,0.12 ,280000
+E05000582,Tower Hamlets,Mile End East,0.26 ,0.95 ,0.87 ,1.00 ,0.00 ,0.33 ,250000
+E05000583,Tower Hamlets,Millwall,0.32 ,0.36 ,0.00 ,0.00 ,0.37 ,0.35 ,355000
+E05000584,Tower Hamlets,St. Dunstan's and Stepney Green,0.89 ,0.80 ,0.55 ,0.86 ,0.27 ,0.21 ,289000
+E05000585,Tower Hamlets,St. Katherine's and Wapping,0.83 ,0.00 ,0.00 ,0.00 ,1.00 ,0.37 ,339000
+E05000586,Tower Hamlets,Shadwell,0.79 ,0.18 ,0.00 ,0.08 ,0.55 ,0.24 ,306250
+E05000587,Tower Hamlets,Spitalfields and Banglatown,0.68 ,0.00 ,0.01 ,0.04 ,1.00 ,0.01 ,400000
+E05000588,Tower Hamlets,Weavers,0.95 ,0.79 ,0.96 ,0.97 ,0.14 ,0.15 ,357500
+E05000589,Tower Hamlets,Whitechapel,0.81 ,0.00 ,0.13 ,0.16 ,1.00 ,0.05 ,315966
+E05000590,Waltham Forest,Cann Hall,0.71 ,0.00 ,1.00 ,1.00 ,0.08 ,0.05 ,226000
+E05000591,Waltham Forest,Cathall,0.58 ,0.00 ,1.00 ,1.00 ,0.59 ,0.23 ,225000
+E05000592,Waltham Forest,Chapel End,0.51 ,0.00 ,0.00 ,1.00 ,0.27 ,0.31 ,243250
+E05000593,Waltham Forest,Chingford Green,0.22 ,0.00 ,0.00 ,1.00 ,0.00 ,0.55 ,255500
+E05000594,Waltham Forest,Endlebury,0.62 ,0.00 ,0.00 ,1.00 ,0.00 ,0.18 ,280000
+E05000595,Waltham Forest,Forest,0.40 ,0.00 ,0.79 ,1.00 ,0.26 ,0.40 ,270000
+E05000596,Waltham Forest,Grove Green,0.29 ,0.00 ,0.97 ,1.00 ,0.98 ,0.04 ,218000
+E05000597,Waltham Forest,Hale End and Highams Park,0.26 ,0.00 ,0.01 ,1.00 ,0.00 ,0.41 ,250000
+E05000598,Waltham Forest,Hatch Lane,0.21 ,0.00 ,0.06 ,1.00 ,0.00 ,0.38 ,240500
+E05000599,Waltham Forest,High Street,0.93 ,0.00 ,0.00 ,1.00 ,0.97 ,0.56 ,216750
+E05000600,Waltham Forest,Higham Hill,0.38 ,0.00 ,0.00 ,1.00 ,0.37 ,0.57 ,229500
+E05000601,Waltham Forest,Hoe Street,0.59 ,0.00 ,0.01 ,1.00 ,0.90 ,0.11 ,265000
+E05000602,Waltham Forest,Larkswood,0.74 ,0.00 ,0.00 ,1.00 ,0.06 ,0.31 ,250000
+E05000603,Waltham Forest,Lea Bridge,0.84 ,0.00 ,0.00 ,1.00 ,0.73 ,0.40 ,194796
+E05000604,Waltham Forest,Leyton,0.80 ,0.00 ,0.19 ,1.00 ,0.97 ,0.27 ,230000
+E05000605,Waltham Forest,Leytonstone,0.42 ,0.00 ,1.00 ,1.00 ,0.12 ,0.06 ,250000
+E05000606,Waltham Forest,Markhouse,0.70 ,0.00 ,0.00 ,1.00 ,1.00 ,0.29 ,243500
+E05000607,Waltham Forest,Valley,0.36 ,0.00 ,0.00 ,1.00 ,0.20 ,0.18 ,247500
+E05000608,Waltham Forest,William Morris,0.65 ,0.00 ,0.00 ,1.00 ,0.92 ,0.05 ,230000
+E05000609,Waltham Forest,Wood Street,0.17 ,0.00 ,0.39 ,1.00 ,0.04 ,0.34 ,288748
+E05000610,Wandsworth,Balham,0.00 ,0.00 ,1.00 ,0.00 ,0.00 ,0.12 ,556750
+E05000611,Wandsworth,Bedford,0.00 ,0.00 ,1.00 ,0.00 ,0.00 ,0.48 ,350000
+E05000612,Wandsworth,Earlsfield,0.51 ,0.56 ,1.00 ,1.00 ,0.08 ,0.17 ,405500
+E05000613,Wandsworth,East Putney,0.00 ,0.37 ,0.92 ,1.00 ,0.41 ,0.11 ,420000
+E05000614,Wandsworth,Fairfield,0.05 ,0.61 ,1.00 ,1.00 ,0.17 ,0.11 ,430000
+E05000615,Wandsworth,Furzedown,0.00 ,0.01 ,1.00 ,0.00 ,0.13 ,0.19 ,280000
+E05000616,Wandsworth,Graveney,0.01 ,0.00 ,1.00 ,0.51 ,0.00 ,0.03 ,300000
+E05000617,Wandsworth,Latchmere,0.38 ,0.00 ,1.00 ,0.71 ,0.43 ,0.13 ,335000
+E05000618,Wandsworth,Nightingale,0.00 ,0.00 ,1.00 ,0.00 ,0.00 ,0.09 ,473500
+E05000619,Wandsworth,Northcote,0.00 ,0.00 ,1.00 ,0.75 ,0.00 ,0.34 ,580000
+E05000620,Wandsworth,Queenstown,0.13 ,0.00 ,1.00 ,0.00 ,0.11 ,0.39 ,405000
+E05000621,Wandsworth,Roehampton,0.04 ,0.17 ,0.29 ,1.00 ,0.00 ,0.71 ,247475
+E05000622,Wandsworth,St. Mary's Park,0.12 ,0.00 ,1.00 ,0.38 ,0.18 ,0.27 ,445000
+E05000623,Wandsworth,Shaftesbury,0.00 ,0.00 ,1.00 ,0.30 ,0.00 ,0.02 ,516000
+E05000624,Wandsworth,Southfields,0.06 ,1.00 ,0.90 ,1.00 ,0.10 ,0.17 ,442000
+E05000625,Wandsworth,Thamesfield,0.33 ,0.98 ,1.00 ,1.00 ,0.16 ,0.34 ,521250
+E05000626,Wandsworth,Tooting,0.00 ,0.00 ,1.00 ,0.80 ,0.07 ,0.34 ,350000
+E05000627,Wandsworth,Wandsworth Common,0.00 ,0.43 ,1.00 ,0.94 ,0.01 ,0.48 ,455000
+E05000628,Wandsworth,West Hill,0.00 ,0.68 ,0.01 ,1.00 ,0.04 ,0.32 ,294000
+E05000629,Wandsworth,West Putney,0.00 ,0.52 ,0.98 ,1.00 ,0.00 ,0.21 ,435000
+E05000630,Westminster,Abbey Road,0.53 ,0.41 ,1.00 ,0.00 ,0.43 ,0.07 ,708750
+E05000631,Westminster,Bayswater,0.94 ,0.00 ,1.00 ,0.00 ,0.05 ,0.04 ,600000
+E05000632,Westminster,Bryanston and Dorset Square,0.19 ,0.00 ,1.00 ,0.00 ,0.00 ,0.02 ,635000
+E05000633,Westminster,Churchill,0.64 ,0.00 ,1.00 ,0.00 ,0.10 ,0.22 ,620000
+E05000634,Westminster,Church Street,0.62 ,0.00 ,1.00 ,0.00 ,0.12 ,0.08 ,370000
+E05000635,Westminster,Harrow Road,0.35 ,0.00 ,0.49 ,0.00 ,0.00 ,0.03 ,325000
+E05000636,Westminster,Hyde Park,0.65 ,0.00 ,1.00 ,0.00 ,0.05 ,0.09 ,607500
+E05000637,Westminster,Knightsbridge and Belgravia,0.24 ,0.50 ,1.00 ,0.00 ,0.00 ,0.69 ,2930000
+E05000638,Westminster,Lancaster Gate,0.42 ,0.03 ,1.00 ,0.00 ,0.00 ,0.09 ,749975
+E05000639,Westminster,Little Venice,0.46 ,0.00 ,1.00 ,0.00 ,0.82 ,0.15 ,715000
+E05000640,Westminster,Maida Vale,0.95 ,0.00 ,0.91 ,0.00 ,0.78 ,0.27 ,575000
+E05000641,Westminster,Marylebone High Street,0.50 ,0.00 ,1.00 ,0.00 ,0.01 ,0.06 ,895000
+E05000642,Westminster,Queen's Park,0.32 ,0.00 ,0.48 ,0.00 ,0.00 ,0.04 ,432500
+E05000643,Westminster,Regent's Park,0.71 ,0.40 ,1.00 ,0.00 ,0.02 ,0.62 ,665000
+E05000644,Westminster,St. James's,0.86 ,0.86 ,0.81 ,0.00 ,1.00 ,0.31 ,875000
+E05000645,Westminster,Tachbrook,0.65 ,0.00 ,1.00 ,0.00 ,1.00 ,0.32 ,570000
+E05000646,Westminster,Vincent Square,0.97 ,0.75 ,0.96 ,0.00 ,0.41 ,0.30 ,585000
+E05000647,Westminster,Warwick,0.94 ,0.12 ,1.00 ,0.00 ,0.31 ,0.04 ,655000
+E05000648,Westminster,Westbourne,0.78 ,0.00 ,1.00 ,0.00 ,0.13 ,0.19 ,395000
+E05000649,Westminster,West End,0.31 ,0.65 ,1.00 ,0.00 ,0.14 ,0.04 ,872500
